@@ -54,3 +54,17 @@ Start the server
 ## FrontEnd Contributor
 - [@hellonarendra](https://www.github.com/hellonarendra)
 ## Screen Shots
+![image](https://user-images.githubusercontent.com/94280847/209833945-0932af32-1d50-4e1c-9347-2745eb974bd4.png)
+![image](https://user-images.githubusercontent.com/94280847/209833996-56034f29-d151-432e-bb8e-dea065e28b4e.png)
+![image](https://user-images.githubusercontent.com/94280847/209834032-af009f81-b144-4e87-ad59-3dda20b05089.png)
+![image](https://user-images.githubusercontent.com/94280847/209834052-399797cb-e97e-4fff-8c50-f26663568522.png)
+![image](https://user-images.githubusercontent.com/94280847/209834078-bd88667a-a935-40ce-9109-cce956af09b7.png)
+![image](https://user-images.githubusercontent.com/94280847/209834112-ef4e8299-f275-4180-a66f-500eb831489f.png)
+![image](https://user-images.githubusercontent.com/94280847/209834157-61b74c50-8122-40ad-b685-0ce18cef60ce.png)
+![image](https://user-images.githubusercontent.com/94280847/209834174-9712cdcb-2baa-4ae5-b197-9d6f6e2b3ffb.png)
+![image](https://user-images.githubusercontent.com/94280847/209834197-6d6a1f5b-98ce-4aae-bcf9-3603d7881133.png)
+![image](https://user-images.githubusercontent.com/94280847/209834215-9dc54b13-fb3d-450d-b1b8-f1c1a381c1cf.png)
+![image](https://user-images.githubusercontent.com/94280847/209834234-62d7cf5d-daaa-4140-8741-157c5316dcce.png)
+![image](https://user-images.githubusercontent.com/94280847/209834259-befc0f29-f6fc-4514-ab8d-d3ceacce4a09.png)
+![image](https://user-images.githubusercontent.com/94280847/209834287-be1bf4a5-9af8-4ae3-8f50-48ba5aacb157.png)
+
