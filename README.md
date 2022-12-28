@@ -54,8 +54,11 @@ Start the server
 ## FrontEnd Contributor
 - [@hellonarendra](https://www.github.com/hellonarendra)
 ## Screen Shots
+Home Page
 ![image](https://user-images.githubusercontent.com/94280847/209833945-0932af32-1d50-4e1c-9347-2745eb974bd4.png)
+About Page
 ![image](https://user-images.githubusercontent.com/94280847/209833996-56034f29-d151-432e-bb8e-dea065e28b4e.png)
+
 ![image](https://user-images.githubusercontent.com/94280847/209834032-af009f81-b144-4e87-ad59-3dda20b05089.png)
 ![image](https://user-images.githubusercontent.com/94280847/209834052-399797cb-e97e-4fff-8c50-f26663568522.png)
 ![image](https://user-images.githubusercontent.com/94280847/209834078-bd88667a-a935-40ce-9109-cce956af09b7.png)
